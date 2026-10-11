@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+# simulator / Vivado temp files
+sim.vvp
+xsim.dir/
+*.wdb
+*.pb
+xvlog.* 
+xelab.*
+xsim*.jou
+xsim*.log
+vivado*.jou
+vivado*.log
+.Xil/
+*.dcp
+webtalk*
